@@ -1,6 +1,6 @@
 # terraform jenkins
 
-Create a working jenkins instance with just a few commands. Fully devloys and configures a master jenkins server.
+Create a working jenkins instance with just a few commands. Fully deploys and configures a master jenkins server.
 ## Getting Started
 
 You will need the acess key / secret token inorder to modify infrastructure.
